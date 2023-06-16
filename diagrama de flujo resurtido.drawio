@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T21:14:40.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Y9Eb_xA_BwnmEcGLFpdz" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T21:25:11.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lgzBe5rbEscbgpl8u8zY" version="21.4.0" type="github">
   <diagram name="Página-1" id="Qh7bI7CGL2_jszbcvP-a">
-    <mxGraphModel dx="1956" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,8 +226,14 @@
         <mxCell id="3GplsCGxQkK43SpxvfvO-36" value="Almacen" style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="857" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="3GplsCGxQkK43SpxvfvO-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3GplsCGxQkK43SpxvfvO-37" target="3GplsCGxQkK43SpxvfvO-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3GplsCGxQkK43SpxvfvO-37" value="Toner." style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="586" y="930" width="44" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3GplsCGxQkK43SpxvfvO-39" value="Busqueda con el numero de ticket generado, para atenderlo y enviarlo llenando los formularios correspondientes." style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="1010" width="192" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
