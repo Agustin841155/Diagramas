@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T20:49:46.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IuhcRnIT-89iHw056Jyi" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T20:56:07.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7ga1X5CJ2bNWZJepKY2g" version="21.4.0" type="github">
   <diagram name="Página-1" id="Qh7bI7CGL2_jszbcvP-a">
-    <mxGraphModel dx="440" dy="238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,23 +139,55 @@
         <mxCell id="3GplsCGxQkK43SpxvfvO-12" value="Filtrado a traves de:&lt;br&gt;-Tipo de componentes(Accesorio, Conectivity, Kit de mtto, Producto,Refaccion, Servicio, Software, Toner).&lt;br&gt;-Almacen.&lt;br&gt;-Modelo." style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="538" y="620" width="167.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3GplsCGxQkK43SpxvfvO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.657;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3GplsCGxQkK43SpxvfvO-13" target="3GplsCGxQkK43SpxvfvO-15">
+        <mxCell id="3GplsCGxQkK43SpxvfvO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="590" as="sourcePoint" />
+            <mxPoint x="940" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="580" />
+              <mxPoint x="889" y="580" />
+              <mxPoint x="889" y="540" />
+              <mxPoint x="930" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GplsCGxQkK43SpxvfvO-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3GplsCGxQkK43SpxvfvO-13" target="3GplsCGxQkK43SpxvfvO-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3GplsCGxQkK43SpxvfvO-13" value="Mesa de ayuda" style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="530" width="90" height="20" as="geometry" />
+          <mxGeometry x="758" y="570" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3GplsCGxQkK43SpxvfvO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3GplsCGxQkK43SpxvfvO-15" target="3GplsCGxQkK43SpxvfvO-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3GplsCGxQkK43SpxvfvO-15" value="Alta ticket." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="970" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="940" y="525" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3GplsCGxQkK43SpxvfvO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3GplsCGxQkK43SpxvfvO-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="203" y="840" />
+              <mxPoint x="680" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3GplsCGxQkK43SpxvfvO-16" value="Creacion de un ticket de resurtido de un almacen" style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="113" y="618" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3GplsCGxQkK43SpxvfvO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3GplsCGxQkK43SpxvfvO-19" target="3GplsCGxQkK43SpxvfvO-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="970" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3GplsCGxQkK43SpxvfvO-19" value="Generacion de un ticket normal que puede ser de tipo toner y no necesariamente resurtido." style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="595" width="120" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="3GplsCGxQkK43SpxvfvO-23" value="Validar ticket toner" style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="730" width="107" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
