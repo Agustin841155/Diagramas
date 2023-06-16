@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T20:34:29.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RXcEtulHhF66GgFsEDUN" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T20:42:36.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="m5_WxPXOSa_a6IAo-HOE" version="21.4.0" type="github">
   <diagram name="Página-1" id="Qh7bI7CGL2_jszbcvP-a">
-    <mxGraphModel dx="926" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DQx1dqBmSsrzj3G31s6L-18" value="Almacen" style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="460" width="70" height="20" as="geometry" />
+          <mxGeometry x="510" y="460" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DQx1dqBmSsrzj3G31s6L-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DQx1dqBmSsrzj3G31s6L-20" target="DQx1dqBmSsrzj3G31s6L-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -107,6 +107,9 @@
         </mxCell>
         <mxCell id="DQx1dqBmSsrzj3G31s6L-26" value="Consulta del inventario de componentes de todos los almacenes." style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="478.75" y="770" width="167.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3GplsCGxQkK43SpxvfvO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3GplsCGxQkK43SpxvfvO-2" target="3GplsCGxQkK43SpxvfvO-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3GplsCGxQkK43SpxvfvO-2" value="Busqueda de un almacen atraves del filtro" style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="500" width="120" height="55" as="geometry" />
@@ -136,6 +139,20 @@
         </mxCell>
         <mxCell id="3GplsCGxQkK43SpxvfvO-12" value="Filtrado a traves de:&lt;br&gt;-Tipo de componentes(Accesorio, Conectivity, Kit de mtto, Producto,Refaccion, Servicio, Software, Toner).&lt;br&gt;-Almacen.&lt;br&gt;-Modelo." style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="620" width="167.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3GplsCGxQkK43SpxvfvO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3GplsCGxQkK43SpxvfvO-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="599.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GplsCGxQkK43SpxvfvO-13" value="Mesa de ayuda" style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="530" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3GplsCGxQkK43SpxvfvO-15" value="Alta ticket." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="990" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3GplsCGxQkK43SpxvfvO-16" value="Creacion de un ticket de resurtido de un almacen" style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="618" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
