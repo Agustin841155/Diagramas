@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T21:03:09.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TN0Tr9WX77UVkMVGyKkC" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T21:11:32.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xFYQGaZ_xTxaKIHMZI9_" version="21.4.0" type="github">
   <diagram name="Página-1" id="Qh7bI7CGL2_jszbcvP-a">
-    <mxGraphModel dx="733" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="440" dy="238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,6 +217,9 @@
         </mxCell>
         <mxCell id="3GplsCGxQkK43SpxvfvO-35" value="El ticket no podra ser atendido ni surtido." style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="828.5" width="120" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="3GplsCGxQkK43SpxvfvO-36" value="Almacen" style="whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="857" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
